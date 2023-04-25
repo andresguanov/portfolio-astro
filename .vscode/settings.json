@@ -11,6 +11,5 @@
 	},
 	"editor.formatOnSave": true,
 	"javascript.format.insertSpaceBeforeFunctionParenthesis": true,
-	"editor.insertSpaces": false,
-	"editor.detectIndentation": false
+	"editor.insertSpaces": false
 }
